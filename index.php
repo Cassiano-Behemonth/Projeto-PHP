@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="css/estilos.css">
         <style>
             body {
-                background-image: url('img/background.jpg');
+                background-image: url('background.jpg');
                 background-repeat: no-repeat;
                 background-size: cover;
                 background-attachment: fixed;
